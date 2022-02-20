@@ -1,6 +1,6 @@
 # Scripts
 ```
-My personal Scripts
+My Personal Scripts
 ```
 * #### [sublist3rpro](https://github.com/atharvashirude/Scripts/tree/main/Sublist3rpro)
   A script that finds subdomains, their IP addresses, their NetName, NetRange and CIDR. All you have to do is enter a domain name.
